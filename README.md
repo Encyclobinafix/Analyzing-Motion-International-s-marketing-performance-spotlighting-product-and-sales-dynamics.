@@ -9,7 +9,7 @@ Welcome to my capstone project. It promises to be an exciting navigation through
 I sought insights into multi-dimensional marketing analysis and how it affects profitability and performance over the years. Leveraging Power BI, this project gathered reporting requirements and offered actionable insights for informed business decisions.
 
 
-## Highlighted Proficiencies and Competencies
+## Highlighted Proficiencies and Competencies:
 * Data Modeling: Created effective data models to support business requirements and enable insightful analysis.
 
 * DAX (Data Analysis Expressions): Utilized DAX functions for complex calculations, aggregations, and creating custom measures.
@@ -30,8 +30,8 @@ I sought insights into multi-dimensional marketing analysis and how it affects p
 
 * Data Governance: Understanding of data governance principles within Power BI, ensuring data security, compliance, and quality.
 
-## Data Modelling:
 
+## Data Modelling:
 * Relationships: Established relationships between tables based on common fields and ensured that relationships are correctly defined to support accurate analysis. Additionally, automatically derived relationships were adjusted to remove and replace unwanted relationships.
 
 * Modeling: Defined the structure of the data model by creating calculated columns, measures, and tables: utilizing DAX (Data Analysis Expressions) for custom calculations.
@@ -42,6 +42,7 @@ I sought insights into multi-dimensional marketing analysis and how it affects p
 
 <img width="664" alt="PBI_Modelling" src="https://github.com/Encyclobinafix/Sales-Performance-Insights-A-Power-BI-Project-for-Streamlined-Data-Analysis-and-Visualization/assets/131128307/5ececb1b-bd1a-485b-a0c5-9a5dd99e02cf">
 
+<img width="737" alt="Remove_empty_columns" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/03e23211-cabb-4d77-bdc3-3984a2c3ac5c">
 
 ## Dynamic Data Analysis Expressions (DAX Measures):
 
@@ -121,3 +122,28 @@ I sought insights into multi-dimensional marketing analysis and how it affects p
           )
       )
       )
+
+* ### Business Questions:
+1. Q/A Overview:
+<img width="730" alt="PBI_AllQ" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/696c6ff5-3ba9-40ae-9d8e-b33bf81803ef">
+
+2. Insights into the top geographical state locations by revenue generated:
+<img width="725" alt="PBI_Q1" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/b0474d72-78e8-42b8-a551-60324f8d5e80">
+
+3. Insights into the top geographical state locations by previous year's revenue:
+<img width="664" alt="PBI_Q2" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/667acc33-90d5-44ce-8381-5ce055ff34b0">
+
+4. Insights into the total VanArsdel sales by state locations:
+<img width="720" alt="PBI_Q3" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/f920faf3-0c29-469c-8836-685f77f9b9bb">
+
+5. Insights into the top performing districts by VanArsdel sales:
+<img width="730" alt="PBI_Q4" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/ab3eb8da-81be-46d6-a029-5fcd0e75841d">
+
+6. Insights into the top prduct categories by total sales for the past year:
+<img width="731" alt="PBI_Q5" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/e655bc5d-91cf-406a-80a9-e3f47c0fb6fd">
+
+7. 
+![PBI_SMROI](https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/9ab0a945-c651-4dba-9156-e3e2f1582dd1)
+
+
+## VISUALIZATIONS:
