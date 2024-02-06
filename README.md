@@ -40,9 +40,7 @@ I sought insights into multi-dimensional marketing analysis and how it affects p
 
 * Schema: The star schema model was deployed to provide enhanced query performance and simplify data navigation. I organized data into a central fact table connected to dimension tables, facilitating efficient analysis and reporting. 
 
-<img width="664" alt="PBI_Modelling" src="https://github.com/Encyclobinafix/Sales-Performance-Insights-A-Power-BI-Project-for-Streamlined-Data-Analysis-and-Visualization/assets/131128307/5ececb1b-bd1a-485b-a0c5-9a5dd99e02cf">
-
-<img width="737" alt="Remove_empty_columns" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/03e23211-cabb-4d77-bdc3-3984a2c3ac5c">
+![](PBI_Modelling.png)
 
 ## Dynamic Data Analysis Expressions (DAX Measures):
 
@@ -123,27 +121,43 @@ I sought insights into multi-dimensional marketing analysis and how it affects p
       )
       )
 
-* ### Business Questions:
-1. Q/A Overview:
-<img width="730" alt="PBI_AllQ" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/696c6ff5-3ba9-40ae-9d8e-b33bf81803ef">
+## Visualizations:
+1. Representing the Return on Investment across different regions, partitioned by the state, marketing channels and manufacturers.
 
-2. Insights into the top geographical state locations by revenue generated:
-<img width="725" alt="PBI_Q1" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/b0474d72-78e8-42b8-a551-60324f8d5e80">
-
-3. Insights into the top geographical state locations by previous year's revenue:
-<img width="664" alt="PBI_Q2" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/667acc33-90d5-44ce-8381-5ce055ff34b0">
-
-4. Insights into the total VanArsdel sales by state locations:
-<img width="720" alt="PBI_Q3" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/f920faf3-0c29-469c-8836-685f77f9b9bb">
-
-5. Insights into the top performing districts by VanArsdel sales:
-<img width="730" alt="PBI_Q4" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/ab3eb8da-81be-46d6-a029-5fcd0e75841d">
-
-6. Insights into the top prduct categories by total sales for the past year:
-<img width="731" alt="PBI_Q5" src="https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/e655bc5d-91cf-406a-80a9-e3f47c0fb6fd">
-
-7. 
 ![PBI_SMROI](https://github.com/Encyclobinafix/Marketing-Analysis-for-Motion-Inc-showcasing-product-and-sales-performance./assets/131128307/9ab0a945-c651-4dba-9156-e3e2f1582dd1)
 
+2. Marketing analysis, representing the total sales, revenue Year to Date, total revenue for past years, year over year ROI, channel and regional sales, sales by product categories and channels, partitioned by year, month, segment, and manufacturers.
 
-## VISUALIZATIONS:
+![](PBI_Exec_Summary.png)
+
+3. Revenue overview across top 10 regions showing Return on Investment by Online, Social Media, Stores, and Outlet sales. partitioned by 
+
+![](PBI_Top10_RegSales.png)
+
+4. Stores marketing analysis and Return on Investment by manufacturer and state.
+
+![](PBI_StoresROI.png)
+
+## Business Questions:
+1. Q/A Overview:
+![](PBI_AllQ.png)
+
+2. Insights into the top geographical state locations by revenue generated:
+![](PBI_Q1.png)
+
+3. Insights into the top geographical state locations by previous year's revenue:
+![](PBI_Q2.png)
+
+4. Insights into the total VanArsdel sales by state locations:
+![](PBI_Q3.png)
+
+5. Insights into the top performing districts by VanArsdel sales:
+![](PBI_Q4.png)
+
+6. Insights into the top prduct categories by total sales for the past year:
+![](PBI_Q5.png)
+
+7. 
+
+
+
