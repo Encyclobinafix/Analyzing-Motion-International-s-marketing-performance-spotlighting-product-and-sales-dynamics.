@@ -154,10 +154,9 @@ I sought insights into multi-dimensional marketing analysis and how it affects p
 5. Insights into the top performing districts by VanArsdel sales:
 ![](PBI_Q4.png)
 
-6. Insights into the top prduct categories by total sales for the past year:
+6. Insights into the top product categories by total sales for the past year:
 ![](PBI_Q5.png)
 
-7. 
 
 
 
