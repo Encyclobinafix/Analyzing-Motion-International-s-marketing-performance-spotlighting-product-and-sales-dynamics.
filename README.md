@@ -130,7 +130,7 @@ I sought insights into multi-dimensional marketing analysis and how it affects p
 
 ![](PBI_Exec_Summary.png)
 
-3. Revenue overview across top 10 regions showing Return on Investment by Online, Social Media, Stores, and Outlet sales. partitioned by 
+3. Revenue overview across top 10 regions showing Return on Investment by Online, Social Media, Stores, and Outlet sales and the total sales channel be state.
 
 ![](PBI_Top10_RegSales.png)
 
